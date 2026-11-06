@@ -2,57 +2,66 @@
 
 # Usama Ahmed Butt
 
-### Principal Full Stack Engineer · Enterprise Systems Architect
+### Principal Full Stack Engineer | Enterprise Systems Architect
 
-**I lead the architecture and delivery of enterprise platforms, ERP, and workflow applications—from early technical decisions through production.**
+**I architect and deliver enterprise platforms, ERP systems, and workflow applications—from technical strategy to production.**
 
-[Portfolio](https://usamabutt4504780.github.io/usamabutt.github.io/) · [LinkedIn](https://www.linkedin.com/in/usama-ahmed-aa3931100/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://usamabutt4504780.github.io/usamabutt.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-ahmed-aa3931100/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usama.ahmed41@gmail.com)
 
 </div>
 
 ---
 
-## About
+## Profile
 
-Principal Engineer with 9+ years of experience designing and delivering scalable, secure software. I work across architecture, backend and frontend engineering, cloud platforms, and delivery—helping teams turn complex business needs into dependable production systems.
+Principal Full Stack Engineer and Enterprise Systems Architect with **9+ years of experience** building scalable, secure software. I lead architecture and delivery across the full lifecycle—turning complex business needs into reliable production platforms, while helping teams maintain strong engineering standards.
 
-- 🏗️ Enterprise platforms, ERP, and workflow applications
-- ⚙️ Distributed systems, microservices, and API-driven architecture
-- ☁️ Azure, Docker, and CI/CD automation
-- 🤝 Technical leadership, mentoring, and cross-functional collaboration
+**Based in Islamabad, Pakistan** · **Open to conversations about senior engineering and architecture opportunities**
 
-## Technology
+## Career highlights
 
-**Languages:** TypeScript, JavaScript, Java, PHP  
-**Backend:** Node.js, NestJS, Express.js, REST APIs, microservices, event-driven systems  
-**Frontend:** Angular, React  
-**Data:** PostgreSQL, MySQL, Microsoft SQL Server, MongoDB  
-**Cloud & delivery:** Microsoft Azure, Docker, Nginx, PM2, Azure DevOps, GitHub Actions  
-**Other:** OAuth 2.0, RBAC, WebRTC, Socket.io
+| Architecture & scale | Performance | Delivery | Technical leadership |
+| --- | --- | --- | --- |
+| Systems supporting **500K+ users** with **99.9% uptime** | Improved system performance by **60%** | Reduced deployment cycles by **40%** | Led and mentored engineering teams of up to **6** |
 
-## Selected work
+## Core strengths
 
-- **[Portfolio](https://usamabutt4504780.github.io/usamabutt.github.io/)** — my professional portfolio and project showcase.
-- **[Crypto Exchange](https://github.com/usamabutt4504780/crypto-exchange-usama)** — a JavaScript cryptocurrency exchange project.
-- **[Microservices Training](https://github.com/usamabutt4504780/microservices-training-part-A)** — practical work exploring microservices.
-- **[PDF Viewer Server](https://github.com/usamabutt4504780/pspdfkitNodeServer)** — a Node.js server project for viewing uploaded documents with PSPDFKit.
+- **Architecture:** Enterprise platforms, ERP, microservices, distributed systems, event-driven design
+- **Backend:** TypeScript, JavaScript, Node.js, NestJS, Express.js, Java, PHP, REST APIs
+- **Frontend:** Angular, React
+- **Data:** PostgreSQL, MySQL, Microsoft SQL Server, MongoDB
+- **Cloud & delivery:** Microsoft Azure, Docker, Nginx, PM2, Azure DevOps, GitHub Actions
+- **Security & real-time:** OAuth 2.0, RBAC, WebRTC, Socket.io
+- **Leadership:** System ownership, mentoring, cross-functional delivery, performance and reliability
 
-## A few engineering highlights
+## Experience snapshot
 
-- Architected systems supporting **500K+ users** with **99.9% uptime**.
-- Improved system performance by **60%** through architectural and code-level optimization.
-- Reduced deployment cycles by **40%** with CI/CD automation.
-- Delivered **10+ enterprise-grade platforms**, with end-to-end ownership.
+**Principal Development Consultant — Systems Ltd** · Jan 2024–Present  
+Own architecture and delivery for large-scale web platforms; lead performance, reliability, and engineering-quality initiatives, and mentor a five-person team.
 
-## Let’s connect
+**Senior Development Consultant — Systems Ltd** · Jan 2023–Dec 2023  
+Architected an enterprise ERP platform using microservices and event-driven services; automated CI/CD and led a six-engineer cross-functional team.
 
-I’m happy to connect about enterprise architecture, full-stack engineering, distributed systems, and building reliable software.
+**Earlier roles:** Development Consultant at Systems Ltd; Software Engineer at Daniotech and Softnotech; Co-Founder & Software Engineer at Grab a Bite; Junior Software Engineer at Atlantic Softwares.
 
-- 🌐 [Portfolio](https://usamabutt4504780.github.io/usamabutt.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/usama-ahmed-aa3931100/)
+## Selected projects
+
+- **[Portfolio](https://usamabutt4504780.github.io/usamabutt.github.io/)** — professional portfolio and project showcase.
+- **[PSPDFKit Node Server](https://github.com/usamabutt4504780/pspdfkitNodeServer)** — Node.js server project for viewing uploaded documents through a web viewer.
+- **[Crypto Exchange](https://github.com/usamabutt4504780/crypto-exchange-usama)** — JavaScript cryptocurrency exchange project.
+- **[Microservices Training](https://github.com/usamabutt4504780/microservices-training-part-A)** — hands-on microservices project.
+
+## Education
+
+**Bachelor of Computer Science** · Sir Syed (CASE) Institute of Technology, Islamabad
 
 ---
 
 <div align="center">
-  <i>Building thoughtful software, from architecture to production.</i>
+
+**Interested in building reliable, scalable enterprise software?**  
+[View my portfolio](https://usamabutt4504780.github.io/usamabutt.github.io/) · [Connect on LinkedIn](https://www.linkedin.com/in/usama-ahmed-aa3931100/) · [Email me](mailto:usama.ahmed41@gmail.com)
+
 </div>
